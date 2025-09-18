@@ -8,7 +8,7 @@
 
 In this lab you'll be learning how to iterate through an array and output the
 results in different ways. Write your code in the `conference_badges.rb` file
-and run the test suite using the `learn test` command.
+and run the test suite using the `bin/rspec` command.
 
 ### Create a `#badge_maker` method
 
